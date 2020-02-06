@@ -4,6 +4,10 @@
     <list default="true" id="f0cac396-7b40-4d79-a7fd-a7a4ee035ce0" name="Default Changelist" comment="Anfang der Verteilung einer Klasse in mehrere Klassen">
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kreditrechner/com/company/Calculate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kreditrechner/com/company/GenerateOutputTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kreditrechner/com/company/GetInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Kreditrechner/com/company/RoundNumber.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Calculate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/GenerateOutputTable.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/GetInput.java" afterDir="false" />
